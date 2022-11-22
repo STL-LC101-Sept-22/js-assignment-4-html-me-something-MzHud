@@ -1,1 +1,35 @@
 /* Write your CSS here! */
+body {
+    background-color: aquamarine;
+    margin: 8px;
+    display: block;
+}
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#testP {
+    color: green;
+}
+
+p.funparagraph{
+    color: orangered;
+}
+h1 {
+    margin-bottom:  20px;
+    text-align: center;
+}
+#mainHeading {
+    color: red;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+
+footer {
+    margin-top:  60px;
+    text-align: center;
+}
